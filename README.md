@@ -27,8 +27,8 @@ The repository includes code for several experiments to evaluate the effectivene
 The experiments were conducted on the **Peaks** and **MNIST** datasets, popular benchmarks in machine learning research. The code in this repository is designed to be adaptable to other classification datasets as well.
 
 ## Repository Structure
-- `models/`: Contains the nonlinear and CNN models.
-- `mgopt_methods/`: Contains the MGDrop and SMGDrop optimization algorithms. 
+- `models`: Contains the nonlinear and CNN models.
+- `mgopt_methods`: Contains the MGDrop and SMGDrop optimization algorithms. 
 - `experiments/`: Scripts for running the experiments and generating the results found in the thesis. Each subfolder is a unique experiment.
 - `datasets`: Contains methods for loading and preprocessing the datasets used in the experiments.
 
