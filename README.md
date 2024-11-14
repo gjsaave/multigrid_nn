@@ -39,6 +39,6 @@ The code is implemented in Python using [PyTorch](https://pytorch.org/) (version
 ## Usage
 1. **Setup**: Clone the repository and install dependencies:
    ```bash
-   git clone [repository URL]
-   cd [repository directory]
+   git clone git@github.com:gjsaave/multigrid_nn.git
+   cd multigrid_nn
    
